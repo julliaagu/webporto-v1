@@ -7,4 +7,4 @@ title: Home
 
 Welcome to my personal portfolio!
 
-Explore my [Projects](/projects/) or learn more [About me](/about/).
+Explore my [Projects](/root/) or learn more [About me](/about/).
