@@ -11,8 +11,7 @@ Explore my [Projects](/projects/) or learn more [About me](/about/).
 
 
 <!-- HTML section starts -->
-<body class="d-flex flex-column h-100 bg-light">
-        <main class="flex-shrink-0">
+<main class="flex-shrink-0">
             <!-- Navigation-->
             <nav class="navbar navbar-expand-lg navbar-light bg-white py-3">
                 <div class="container px-5">
@@ -185,7 +184,7 @@ Explore my [Projects](/projects/) or learn more [About me](/about/).
                     </div>
                 </div>
             </div>
-        </main>
+    </main>
         <!-- Footer-->
         <footer class="bg-white py-4 mt-auto">
             <div class="container px-5">
@@ -205,4 +204,3 @@ Explore my [Projects](/projects/) or learn more [About me](/about/).
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->
         <script src="js/scripts.js"></script>
-</body>
