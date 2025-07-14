@@ -7,7 +7,7 @@ title: Home
 
 Welcome to my personal portfolio!
 
-Explore my [Projects](/project.html/) or learn more [About me](/about/).
+Explore my [Projects](/project/) or learn more [About me](/resume/).
 
 
 <!-- HTML section starts -->
