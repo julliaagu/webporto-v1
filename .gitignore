@@ -1,0 +1,16 @@
+# Jekyll build output
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Dependencies
+vendor/
+.bundle/
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# VS Code settings (optional, kalau kamu pakai VSCode)
+.vscode/
