@@ -1,14 +1,8 @@
----
-layout: default
-title: Home
----
+I"a7<h1 id="hello-im-jullia-">Hello, I’m Jullia 👋</h1>
 
-# Hello, I'm Jullia 👋
+<p>Welcome to my personal portfolio!</p>
 
-Welcome to my personal portfolio!
-
-Explore my [Projects](/project/) or learn more [About me in my resume](/resume/).
-
+<p>Explore my <a href="/project/">Projects</a> or learn more <a href="/resume/">About me in my resume</a>.</p>
 
 <!-- HTML section starts -->
 <main class="flex-shrink-0">
@@ -19,7 +13,7 @@ Explore my [Projects](/project/) or learn more [About me in my resume](/resume/)
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav ms-auto mb-2 mb-lg-0 small fw-bolder">
-                            <li class="nav-item"><a class="nav-link" a href="/index/">Home</a></li>
+                            <li class="nav-item"><a class="nav-link" a="" href="/index/">Home</a></li>
                             <li class="nav-item"><a class="nav-link" href="resume.html">Resume</a></li>
                             <li class="nav-item"><a class="nav-link" href="projects.html">Projects</a></li>
                             <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
@@ -40,7 +34,7 @@ Explore my [Projects](/project/) or learn more [About me in my resume](/resume/)
                                 <h2 class="text-primary fw-bolder mb-0">Experience</h2>
                                 <!-- Download CV button-->
                                 <!-- Note: Set the link href target to a PDF file within your project-->
-                                <a class="btn btn-primary px-4 py-3" href="https://drive.usercontent.google.com/u/0/uc?id=1CpYPatjJf1VkAnsq77_OhTG1qQkQBJ-2&export=download">
+                                <a class="btn btn-primary px-4 py-3" href="https://drive.usercontent.google.com/u/0/uc?id=1CpYPatjJf1VkAnsq77_OhTG1qQkQBJ-2&amp;export=download">
                                     <div class="d-inline-block bi bi-download me-2"></div>
                                     Download My CV
                                 </a>
@@ -70,7 +64,7 @@ Explore my [Projects](/project/) or learn more [About me in my resume](/resume/)
                                             <p>
                                                 as a core and payment Solution:
                                             </p>
-                                            <
+                                            &lt;
                                         </div></div>
                                     </div>
                                 </div>
@@ -185,3 +179,4 @@ Explore my [Projects](/project/) or learn more [About me in my resume](/resume/)
                 </div>
             </div>
     </main>
+:ET

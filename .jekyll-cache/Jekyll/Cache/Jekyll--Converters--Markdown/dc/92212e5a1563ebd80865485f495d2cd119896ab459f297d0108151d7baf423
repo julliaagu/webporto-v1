@@ -1,0 +1,24 @@
+I"�<h1 id="about-me">About Me</h1>
+
+<p>I’m a Business Analyst with experience in project management, QA, and frontend development.<br />
+I love solving problems and translating business needs into real solutions.
+📄 5. projects.md
+markdown
+Copy
+Edit
+—
+layout: default
+title: Projects
+permalink: /projects/
+—</p>
+
+<h1 id="projects">Projects</h1>
+
+<p>Here are some of the projects I’ve worked on:</p>
+
+<ul>
+  <li><strong>Project A</strong> – Business process redesign</li>
+  <li><strong>Project B</strong> – QA &amp; UAT scenario writing</li>
+  <li><strong>Project C</strong> – Web-based internal tool with frontend contribution</li>
+</ul>
+:ET
