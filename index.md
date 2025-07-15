@@ -7,7 +7,7 @@ title: Home
 
 Welcome to my personal portfolio!
 
-Explore my [Projects](project/) or learn more [About me in my resume](/resume/).
+Explore my [Projects]({{ site.baseurl }}/project/) or learn more [About me in my resume](/resume/).
 
 
 <!-- HTML section starts -->

@@ -3,3 +3,4 @@ description: My Portfolio
 theme: null
 markdown: kramdown
 permalink: pretty
+baseurl: "/webporto-v1"
